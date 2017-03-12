@@ -1,40 +1,17 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+#CroatiaBot
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+## About Croatia 
 
-## About Laravel
+Croatia (Listeni/kroʊˈeɪʃə/ kroh-ay-shə; Croatian: Hrvatska [xř̩ʋaːtskaː]), officially the Republic of Croatia (Croatian: Republika Hrvatska, About this sound listen (help·info)), is a sovereign state between Central Europe, Southeast Europe, and the Mediterranean. Its capital city is Zagreb, which forms one of the country's primary subdivisions, along with its twenty counties. Croatia covers 56,594 square kilometres (21,851 square miles) and has diverse, mostly continental and Mediterranean climates. Croatia's Adriatic Sea coast contains more than a thousand islands. The country's population is 4.28 million, most of whom are Croats, with the most common religious denomination being Roman Catholicism.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+The Croats arrived in the area of present-day Croatia during the early part of the 7th century AD. They organised the state into two duchies by the 9th century. Tomislav became the first king by 925, elevating Croatia to the status of a kingdom. The Kingdom of Croatia retained its sovereignty for nearly two centuries, reaching its peak during the rule of Kings Petar Krešimir IV and Dmitar Zvonimir. Croatia entered a personal union with Hungary in 1102. In 1527, faced with Ottoman conquest, the Croatian Parliament elected Ferdinand I of the House of Habsburg to the Croatian throne. In 1918, after World War I, Croatia was included in the unrecognized State of Slovenes, Croats and Serbs which seceded from Austria-Hungary and merged into the Kingdom of Yugoslavia. A fascist Croatian puppet state backed by Fascist Italy and Nazi Germany existed during World War II. After the war, Croatia became a founding member and a federal constituent of the Socialist Federal Republic of Yugoslavia, a constitutionally socialist state. On 25 June 1991 Croatia declared independence, which came wholly into effect on 8 October of the same year. The Croatian War of Independence was fought successfully during the four years following the declaration.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+A unitary state, Croatia is a republic governed under a parliamentary system. The International Monetary Fund classified Croatia as an emerging and developing economy, and the World Bank identified it as a high-income economy. Croatia is a member of the European Union (EU), United Nations (UN), the Council of Europe, NATO, the World Trade Organization (WTO) and a founding member of the Union for the Mediterranean. As an active participant in the UN peacekeeping forces, Croatia has contributed troops to the NATO-led mission in Afghanistan and took a non-permanent seat on the UN Security Council for the 2008–2009 term.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+The service sector dominates Croatia's economy, followed by the industrial sector and agriculture. Tourism is a significant source of revenue during the summer, with Croatia ranked the 18th most popular tourist destination in the world. The state controls a part of the economy, with substantial government expenditure. The European Union is Croatia's most important trading partner. Since 2000, the Croatian government constantly invests in infrastructure, especially transport routes and facilities along the Pan-European corridors. Internal sources produce a significant portion of energy in Croatia; the rest is imported. Croatia provides a universal health care system and free primary and secondary education, while supporting culture through numerous public institutions and corporate investments in media and publishing.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
-
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## About Croatia Bot
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
